@@ -15,6 +15,10 @@ console.log(numPares);
 let carro;
 carro = { nome: 'Fiat', ano: 2004, preco: 5000 };
 console.log(carro);
+// TUPLA 
+// tuplas admitem tipos diferentes dentro da estrutura
+let nomeProfissaoIdade;
+nomeProfissaoIdade = ['celso soares', 'estudante', 25];
 // FUNÇÕES  
 function multiplicarNumero(num1, num2) {
     return num1 * num2;
